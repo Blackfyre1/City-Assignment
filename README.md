@@ -1,5 +1,5 @@
 # City Assignment
- City assignment for internship at Bipolar factory
+ First-Person Game in unity built as an assignment.
  
 Resources Used:
 
